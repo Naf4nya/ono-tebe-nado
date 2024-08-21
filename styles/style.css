@@ -70,7 +70,6 @@
     background-image: url(../images/cover.jpg);
     background-size: cover;
     background-position: center;
-  
 }
 
 .overlay {
@@ -93,14 +92,12 @@
     line-height: 127px;
     font-size: 100px;
     letter-spacing: 0.3em;   
-
 }
 
 
 .flex-text_left {
     display: flex;
     justify-content: left;
-    
 }
 
 .flex-text_center {
@@ -113,7 +110,6 @@
     display: flex;
     justify-content: right;
     padding: 0 0 0 50px;
-    
 }
 
 .aligned-text-right {
@@ -121,7 +117,6 @@
     line-height: 112px;
     font-size: 100px;
     letter-spacing: 0.3em; 
-
 }
 
 
@@ -329,7 +324,6 @@
     gap: 48px;
     color: #000;
     list-style-type: none;
-
 }
 
 
