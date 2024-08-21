@@ -25,6 +25,11 @@
     
 }
 
+.header_links-list-none {
+    list-style-type: none;
+    
+}
+
 .header_links-list-item .header_link {
   
     border-bottom: 1px solid;
@@ -81,9 +86,6 @@
     font-size: 0;
     text-transform: uppercase;
     padding: 160px 50px 0 50px;
-
-    
-
 }
 
 .aligned-text {
@@ -135,8 +137,6 @@
     margin: 130px 50px 50px 78px;
     justify-content: space-between;
     align-items: center;
-
-
 }
 
 .cover_description-text {
@@ -175,8 +175,6 @@
     display: flex;
     justify-content: space-between;
     list-style: none;
-    
-    
 }
 
 
@@ -185,7 +183,6 @@
     display: flex;
     height: 563px;
     width: 334px;
-
 }
 
 .overlay_card {
@@ -214,7 +211,6 @@
 .card_type_picture {
     display: grid;
     background-image: url(../images/card-lot-03.jpg);
-    
 }
     
 .card_title {
@@ -298,10 +294,6 @@
     width: 100%;
 }
 
-.footer_menu {
-    
-
-}
 
 .footer_menu-list {
     display: flex;
@@ -310,7 +302,6 @@
     color: #000;
     font-size: 18px;
     list-style-type: none;
-
 }
 
 .footer_menu-link_active {
@@ -323,9 +314,6 @@
     border-bottom: 1px solid;
 }
 
-.footer_menu-link {
-   
-}
 
 .footer_social-list {
     display: flex;
@@ -337,9 +325,6 @@
 
 }
 
-.footer_social-list-item {
-    
-}
 
 .footer_socia-icon {
     width: 48px;
