@@ -43,7 +43,6 @@
     padding: 0 8px;
     margin: 0 184px 0 auto;
    
-
 }
 
 .header_logo-image {
@@ -70,6 +69,7 @@
     height: 757px;
     background-image: url(../images/cover.jpg);
     background-size: cover;
+    background-position: center;
   
 }
 
@@ -93,6 +93,7 @@
     line-height: 127px;
     font-size: 100px;
     letter-spacing: 0.3em;   
+
 }
 
 
@@ -119,7 +120,8 @@
     display: inline-block;
     line-height: 112px;
     font-size: 100px;
-    letter-spacing: 0.3em;   
+    letter-spacing: 0.3em; 
+
 }
 
 
@@ -205,12 +207,16 @@
 .card_type_book {
     display: grid;
     background-image: url(../images/card-lot-02.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 
 .card_type_picture {
     display: grid;
     background-image: url(../images/card-lot-03.jpg);
+    background-size: cover;
+    background-position: center;
 }
     
 .card_title {
@@ -306,13 +312,14 @@
 
 .footer_menu-link_active {
     text-decoration: none;
-    
 }
 
 
 .footer_menu-list-item {
     border-bottom: 1px solid;
 }
+
+
 
 
 .footer_social-list {
